@@ -1,0 +1,25 @@
+{
+  "name": "setup_nodejs_ts",
+  "version": "1.0.0",
+  "description": "A small project with TypeScript, with main configuration ready",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMoraes66/setup_nodejs_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMoraes66/setup_nodejs_ts/issues"
+  },
+  "homepage": "https://github.com/MatheusMoraes66/setup_nodejs_ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}

@@ -1,2 +1,9 @@
 # setup_nodejs_ts
-A small project with TypeScript, with main configuration ready
+
+This project is a simple structure with TypeScript, it helps with the initial setup. I use the LTS version of NodeJS.
+
+
+## Command
+
+___This command generate the build of project___.
+> npm run build
